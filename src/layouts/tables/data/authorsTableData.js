@@ -54,7 +54,7 @@ const authorsTableData = {
 
   rows: [
     {
-      employee: <Author image={team2} name="John Michael" email="john@creative-tim.com" />,
+      employee: <Author image={team2} name="John Michael" email="john@thiran360.ai" />,
       function: <Function job="Admin" org="Organization" />,
       status: (
         <SoftBadge variant="gradient" badgeContent="online" color="success" size="xs" container />
@@ -77,7 +77,7 @@ const authorsTableData = {
       ),
     },
     {
-      employee: <Author image={team3} name="Alexa Liras" email="alexa@creative-tim.com" />,
+      employee: <Author image={team3} name="Alexa Liras" email="alexa@thiran360.ai" />,
       function: <Function job="User" org="Construction" />,
       status: (
         <SoftBadge variant="gradient" badgeContent="offline" color="secondary" size="xs" container />
@@ -100,7 +100,7 @@ const authorsTableData = {
       ),
     },
     {
-      employee: <Author image={team4} name="Laurent Perrier" email="laurent@creative-tim.com" />,
+      employee: <Author image={team4} name="Laurent Perrier" email="laurent@thiran360.ai" />,
       function: <Function job="Admin" org="Projects" />,
       status: (
         <SoftBadge variant="gradient" badgeContent="online" color="success" size="xs" container />
@@ -123,7 +123,7 @@ const authorsTableData = {
       ),
     },
     {
-      employee: <Author image={team3} name="Michael Levi" email="michael@creative-tim.com" />,
+      employee: <Author image={team3} name="Michael Levi" email="michael@thiran360.ai" />,
       function: <Function job="User" org="Construction" />,
       status: (
         <SoftBadge variant="gradient" badgeContent="online" color="success" size="xs" container />
@@ -146,7 +146,7 @@ const authorsTableData = {
       ),
     },
     {
-      employee: <Author image={team2} name="Richard Gran" email="richard@creative-tim.com" />,
+      employee: <Author image={team2} name="Richard Gran" email="richard@thiran360.ai" />,
       function: <Function job="Manager" org="Executive" />,
       status: (
         <SoftBadge variant="gradient" badgeContent="offline" color="secondary" size="xs" container />
@@ -169,7 +169,7 @@ const authorsTableData = {
       ),
     },
     {
-      employee: <Author image={team4} name="Miriam Eric" email="miriam@creative-tim.com" />,
+      employee: <Author image={team4} name="Miriam Eric" email="miriam@thiran360.ai" />,
       function: <Function job="User" org="Construction" />,
       status: (
         <SoftBadge variant="gradient" badgeContent="offline" color="secondary" size="xs" container />

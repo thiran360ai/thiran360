@@ -140,7 +140,7 @@ There is a warnings related to the stylis-plugin-rtl dependency that won't affec
 
 ### Warning
 
-- The soft-ui-dashboard-react/pages/rtl is chaning the route slowly in development mode its a problem with @emotion/cache `prepend` and we will fix it on our future updates.
+- The Construction-Progress/pages/rtl is chaning the route slowly in development mode its a problem with @emotion/cache `prepend` and we will fix it on our future updates.
 - There is some console error related to the key on table component and it will not make any issue for you we will take care of that on our next update for the product.
 
 ## [1.0.0] 2021-09-08

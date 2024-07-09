@@ -3,10 +3,10 @@
 * Construction Progress React - v4.0.1
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
-* Copyright 2023 Instant Tech (https://www.creative-tim.com)
+* Product Page: https://www.thiran360.ai/product/Construction-Progress
+* Copyright 2023 Thiran360AI (https://www.thiran360.ai)
 
-Coded by www.creative-tim.com
+Coded by www.thiran360.ai
 
  =========================================================
 
@@ -36,7 +36,7 @@ function CoverLayout({ color, header, title, description, image, top, children }
       <DefaultNavbar
         action={{
           type: "external",
-          route: "https://creative-tim.com/product/soft-ui-dashboard-react",
+          route: "https://thiran360.ai/product/Construction-Progress",
           label: "Contact Us",
           color: "dark",
         }}

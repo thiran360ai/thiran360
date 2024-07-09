@@ -3,10 +3,10 @@
 * Construction Progress React - v4.0.1
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
-* Copyright 2023 Instant Tech (https://www.creative-tim.com)
+* Product Page: https://www.thiran360.ai/product/Construction-Progress
+* Copyright 2023 Thiran360AI (https://www.thiran360.ai)
 
-Coded by www.creative-tim.com
+Coded by www.thiran360.ai
 
  =========================================================
 
@@ -71,17 +71,17 @@ function Overview() {
               }}
               social={[
                 {
-                  link: "https://www.facebook.com/CreativeTim/",
+                  link: "https://www.facebook.com/thiran360AI/",
                   icon: <FacebookIcon />,
                   color: "facebook",
                 },
                 {
-                  link: "https://twitter.com/creativetim",
+                  link: "https://twitter.com/thiran360AI",
                   icon: <TwitterIcon />,
                   color: "twitter",
                 },
                 {
-                  link: "https://www.instagram.com/creativetimofficial/",
+                  link: "https://www.instagram.com/thiran360AIofficial/",
                   icon: <InstagramIcon />,
                   color: "instagram",
                 },

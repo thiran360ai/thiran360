@@ -1,10 +1,10 @@
 {
-  "name": "soft-ui-dashboard-react",
+  "name": "Construction-Progress",
   "version": "4.0.1",
-  "author": "Instant Tech",
-  "homepage": "https://gokulrajalp.github.io/Construction_Progress_Monitor",
+  "author": "Thiran360AI",
+  "homepage": "https://thiran360ai.github.io/thiran360",
   "license": "",
-  "description": "ReactJS version of Construction Progress by Instant Tech",
+  "description": "ReactJS version of Construction Progress by Thiran360AI",
   "dependencies": {
     "@emotion/cache": "11.11.0",
     "@emotion/react": "11.11.0",

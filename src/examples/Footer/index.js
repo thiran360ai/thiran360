@@ -3,10 +3,10 @@
 * Construction Progress React - v4.0.1
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
-* Copyright 2023 Instant Tech (https://www.creative-tim.com)
+* Product Page: https://www.thiran360.ai/product/Construction-Progress
+* Copyright 2023 Thiran360AI (https://www.thiran360.ai)
 
-Coded by www.creative-tim.com
+Coded by www.thiran360.ai
 
  =========================================================
 
@@ -99,12 +99,12 @@ function Footer({ company, links }) {
 
 // Setting default values for the props of Footer
 Footer.defaultProps = {
-  company: { href: "https://www.creative-tim.com/", name: "Instant Tech" },
+  company: { href: "https://www.thiran360.ai/", name: "Thiran360AI" },
   links: [
-    { href: "https://www.creative-tim.com/", name: "Instant Tech" },
-    { href: "https://www.creative-tim.com/presentation", name: "About Us" },
-    { href: "https://www.creative-tim.com/blog", name: "Blog" },
-    { href: "https://www.creative-tim.com/license", name: "License" },
+    { href: "https://www.thiran360.ai/", name: "Thiran360AI" },
+    { href: "https://www.thiran360.ai/presentation", name: "About Us" },
+    { href: "https://www.thiran360.ai/blog", name: "Blog" },
+    { href: "https://www.thiran360.ai/license", name: "License" },
   ],
 };
 

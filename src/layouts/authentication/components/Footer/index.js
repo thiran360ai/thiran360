@@ -3,10 +3,10 @@
 * Construction Progress React - v4.0.1
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
-* Copyright 2023 Instant Tech (https://www.creative-tim.com)
+* Product Page: https://www.thiran360.ai/product/Construction-Progress
+* Copyright 2023 Thiran360AI (https://www.thiran360.ai)
 
-Coded by www.creative-tim.com
+Coded by www.thiran360.ai
 
  =========================================================
 
@@ -86,7 +86,7 @@ function Footer() {
         </Grid>
         <Grid item xs={12} lg={8} sx={{ textAlign: "center" }}>
           <SoftTypography variant="body2" color="secondary">
-            Copyright &copy; 2024 Soft by Instant Tech.
+            Copyright &copy; 2024 Soft by Thiran360AI.
           </SoftTypography>
         </Grid>
       </Grid>

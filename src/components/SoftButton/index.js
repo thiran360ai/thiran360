@@ -3,10 +3,10 @@
 * Construction Progress React - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-pro-react
-* Copyright 2021 Instant Tech (https://www.creative-tim.com)
+* Product Page: https://www.thiran360.ai/product/soft-ui-dashboard-pro-react
+* Copyright 2021 Thiran360AI (https://www.thiran360.ai)
 
-Coded by www.creative-tim.com
+Coded by www.thiran360.ai
 
 =========================================================
 

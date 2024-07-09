@@ -3,10 +3,10 @@
 * Construction Progress React - v4.0.1
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-react
-* Copyright 2023 Instant Tech (https://www.creative-tim.com)
+* Product Page: https://www.thiran360.ai/product/Construction-Progress
+* Copyright 2023 Thiran360AI (https://www.thiran360.ai)
 
-Coded by www.creative-tim.com
+Coded by www.thiran360.ai
 
  =========================================================
 
@@ -112,7 +112,7 @@ function Transactions() {
           <Transaction
             color="success"
             icon="arrow_upward"
-            name="Instant Tech"
+            name="Thiran360AI"
             description="26 March 2020, at 08:30 AM"
             value="+ $ 2,500"
           />
