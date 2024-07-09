@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/thiran360/static/js/main.60aadf9c.js",
+    "main.js": "/thiran360/static/js/main.4cc0a753.js",
     "static/media/home-decor-3.jpg": "/thiran360/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/thiran360/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
     "static/media/home-decor-1.jpg": "/thiran360/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
@@ -32,9 +32,9 @@
     "index.html": "/thiran360/index.html",
     "static/media/logo-atlassian.svg": "/thiran360/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
     "static/media/logo-webdev.svg": "/thiran360/static/media/logo-webdev.88aae85b5a8a994aa0009d6c389a7f77.svg",
-    "main.60aadf9c.js.map": "/thiran360/static/js/main.60aadf9c.js.map"
+    "main.4cc0a753.js.map": "/thiran360/static/js/main.4cc0a753.js.map"
   },
   "entrypoints": [
-    "static/js/main.60aadf9c.js"
+    "static/js/main.4cc0a753.js"
   ]
 }
